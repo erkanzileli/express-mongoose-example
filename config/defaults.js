@@ -3,7 +3,6 @@ module.exports = {
     username: '',
     password: '',
     database: '',
-    host: '',
-    port: 0
+    host: ''
   }
 }
